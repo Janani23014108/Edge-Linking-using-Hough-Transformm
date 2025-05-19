@@ -98,6 +98,8 @@ plt.show()
 
 
 ## Result:
+    
+     
      Thus the python program to detect the lines using Hough Transform was successfully completed.
 
 
